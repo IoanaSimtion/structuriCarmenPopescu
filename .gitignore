@@ -33,3 +33,15 @@
 *.pdb
 *.exe
 *.pdb
+*.suo
+*.ilk
+*.log
+*.obj
+*.tlog
+*.tlog
+*.tlog
+*.tlog
+*.idb
+*.pdb
+*.exe
+*.pdb
